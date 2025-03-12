@@ -1,7 +1,9 @@
 # Too Good Co. – Frontend Website  
 
-## 📌 Overview  
+## 📌 Introduction  
 **Too Good Co.** is a product-based website designed to showcase and sell high-quality goods. This frontend project is built using **HTML, CSS, and JavaScript**, providing a smooth and engaging user experience.  
+
+🔗 **Live Demo:** [Too Goood Co.](https://alnakverma.github.io/Two-Good-Co/)
 
 ## 🛠️ Tech Stack  
 - **HTML** 
